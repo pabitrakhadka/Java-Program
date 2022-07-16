@@ -79,12 +79,7 @@ class Library {
     void iss()
     {
 
-//        System.out.println("Enter the Number of Book ");
-////        Scanner sc= new Scanner(System.in);
-//       /* int number,i;
-//        number=sc.nextInt();
-//        for (i=1;i<=number;i++)*/
-//        {
+
             Scanner obj3=new Scanner(System.in);
             System.out.println("Book Name");
             str=obj3.nextLine();
